@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="GHA Minutes diagnoses GitHub Actions burn before previewing, applying, and validating concurrency cancellation.">
+</p>
+
 # gha-minutes
 
 Diagnose GitHub Actions minute burn and apply the mechanical fix (concurrency
